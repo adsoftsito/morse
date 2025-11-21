@@ -24,7 +24,7 @@ class HelloParser ( Parser ):
 
     sharedContextCache = PredictionContextCache()
 
-    literalNames = [ "<INVALID>", "'hello'" ]
+    literalNames = [ "<INVALID>", "'hola'" ]
 
     symbolicNames = [ "<INVALID>", "<INVALID>", "ID", "WS" ]
 
